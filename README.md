@@ -1,6 +1,5 @@
-# PhD Candidate
-### RMIT University, Australia.
-#### I am a PhD candidate in Computer Science at the School of Computing Technologies, RMIT University. My researcher interests are Human-Computer Interaction, user behaviour and multi-modal data analysis.
+
+#### I am a PhD candidate at the School of Computing Technologies, RMIT University. My researcher interests are Human-Computer Interaction, user behaviour and multi-modal data analysis.
 
 ## Education
 
