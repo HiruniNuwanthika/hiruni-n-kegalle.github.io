@@ -1,5 +1,7 @@
 title: Hiruni Kegalle
-logo: /assets/img/Hiruni.png
+logo: /assets/img/Hiruni-round.png
 description: PhD Candidate, RMIT University, Australia.
 show_downloads: false
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
