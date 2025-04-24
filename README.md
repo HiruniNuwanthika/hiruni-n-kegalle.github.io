@@ -37,4 +37,6 @@ University of Colombo School of Computing, Sri lanka
 - Utilised Oracle, SQL, and SSRS to extract, transform, and visualize data. 
 
 ## Publications
-Hiruni Kegalle, Danula Hettiachchi, Jeffrey Chan, Mark Sanderson, and Flora D. Salim. 2025. “Watch Out! E-scooter Coming Through!: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders’ Ego-centric Views”. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 9, 1, Article 217 (March 2025), 23 pages. 
+#### Watch Out! E-Scooter Coming Through!: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders’ Ego-Centric Views
+Hiruni Kegalle, Danula Hettiachchi, Jeffrey Chan, Mark Sanderson, and Flora D. Salim
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2025
