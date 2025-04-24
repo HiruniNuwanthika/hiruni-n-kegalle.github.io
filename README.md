@@ -39,4 +39,4 @@ University of Colombo School of Computing, Sri lanka
 ## Publications
 #### Watch Out! E-Scooter Coming Through!: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders’ Ego-Centric Views
 Hiruni Kegalle, Danula Hettiachchi, Jeffrey Chan, Mark Sanderson, and Flora D. Salim
-Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2025
+_Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2025_
