@@ -10,4 +10,5 @@ permalink: /publications
 markdown: kramdown
 kmarkdown:
   input: GFM
- header_pages: publications.md
+header_pages:
+  - publications.md
