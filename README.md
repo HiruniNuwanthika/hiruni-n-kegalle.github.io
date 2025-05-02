@@ -38,3 +38,4 @@ University of Colombo School of Computing, Sri lanka
 - Utilised Oracle, SQL, and SSRS to extract, transform, and visualize data. 
 
 Check out my [Publications](/publications/).
+Take a look at my [Work Experiences](/work/)
