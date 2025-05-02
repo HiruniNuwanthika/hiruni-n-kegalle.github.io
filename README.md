@@ -4,14 +4,12 @@
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="padding: 8px;"><strong>Data Scientist</strong></td>
-    <td style="padding: 8px;">Company A</td>
-    <td style="padding: 8px;">2022 – Present</td>
+    <td style="padding: 8px;"><strong>May, 2025</strong></td>
+    <td style="padding: 8px;">Submitted PhD Thesis</td> <br><br> Title: Designing for Multiple Stakeholders: Integrating Value Sensitive Design and Multimodal Sensing in Location-Based Services
   </tr>
   <tr>
-    <td style="padding: 8px;"><strong>Research Assistant</strong></td>
-    <td style="padding: 8px;">University B</td>
-    <td style="padding: 8px;">2020 – 2022</td>
+    <td style="padding: 8px;"><strong>October, 2024</strong></td>
+    <td style="padding: 8px;">Attended the MobileHCI 2024 and served as a student volunteer co-chair.</td>
   </tr>
 </table>      
 
