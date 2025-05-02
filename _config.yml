@@ -10,3 +10,9 @@ show_downloads: false
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
