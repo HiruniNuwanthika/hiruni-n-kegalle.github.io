@@ -10,6 +10,6 @@ BSc. (Hons.) in Computer Science
 University of Colombo School of Computing, Sri lanka
 
 
-Check out my [Publications](/hiruni-nuwanthika-kegalle//publications/).
+Check out my [Publications](/hiruni-nuwanthika-kegalle/publications/).
 
-Take a look at my [Work Experiences](/hiruni-nuwanthika-kegalle//workexperience/)
+Take a look at my [Work Experiences](/hiruni-nuwanthika-kegalle/workexperience/)
