@@ -3,16 +3,15 @@ logo: /assets/img/Hiruni-round.png
   <br><br>
 description: PhD Candidate, RMIT University.
   <br><br>
-  <a href="https://www.linkedin.com/in/jacob-lundeen-b49b8390/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"> </a> 
+  <a href="https://www.linkedin.com/in/hiruni-kegalle/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"> </a> 
   <br><br>
   <a href="https://scholar.google.com.au/citations?user=3WvHX3QAAAAJ&hl=en">  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="30" height="30"> </a>
 show_downloads: false
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
-
 navigation:
-  - title: "Home"
+  - title: "HiruniK"
     url: "/"
   - title: "Publications"
     url: "/publications/"
