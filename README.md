@@ -10,6 +10,6 @@ BSc. (Hons.) in Computer Science
 University of Colombo School of Computing, Sri lanka
 
 
-Check out my [Publications](/publications.md/).
+Check out my [Publications](/publications/).
 
-Take a look at my [Work Experiences](/workexperience.md/)
+Take a look at my [Work Experiences](/workexperience/)
