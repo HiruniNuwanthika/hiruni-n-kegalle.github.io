@@ -5,7 +5,7 @@
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="padding: 8px;"><strong>May, 2025</strong></td>
-    <td style="padding: 8px;">Submitted PhD Thesis. Title: Designing for Multiple Stakeholders: Integrating Value Sensitive Design and Multimodal Sensing in Location-Based Services</td>
+    <td style="padding: 8px;">Submitted PhD Thesis.<br> Title: Designing for Multiple Stakeholders: Integrating Value Sensitive Design and Multimodal Sensing in Location-Based Services</td>
   </tr>
   <tr>
     <td style="padding: 8px;"><strong>October, 2024</strong></td>
