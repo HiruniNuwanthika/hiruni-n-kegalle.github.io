@@ -16,5 +16,5 @@ navigation:
     url: "/"
   - title: "Publications"
     url: "/publications/"
-  - title: "Work Expereince"
+  - title: "Work Experience"
     url: "/workexpereince/"
