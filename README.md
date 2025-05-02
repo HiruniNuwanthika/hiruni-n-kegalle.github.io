@@ -1,7 +1,8 @@
 
 ### I am a PhD candidate at the [School of Computing Technologies](https://www.rmit.edu.au/about/schools-colleges/computing-technologies), RMIT University. 
 ### My researcher interests are Human-Computer Interaction, User Behaviour and Multi-Modal Data Analysis.
-<br><br>
+<br>
+
 ## Recent News
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -17,6 +18,8 @@
     <td style="padding: 8px;"> Published a [Conversation news article](https://theconversation.com/we-asked-melburnians-about-shared-e-scooters-their-responses-point-to-alternatives-to-the-city-councils-ban-237755) on e-scooter ban in Melbourne, written based on PhD research.</td>
   </tr>
 </table>      
+
+<br>
 
 ## Education
 Reading PhD (Computer Science)
