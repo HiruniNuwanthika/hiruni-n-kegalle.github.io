@@ -1,6 +1,10 @@
 title: Hiruni Kegalle
 logo: /assets/img/Hiruni-round.png
 description: PhD Candidate, RMIT University, Australia.
+  <br><br>
+  <a href="https://www.linkedin.com/in/jacob-lundeen-b49b8390/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
+  <br><br>
+  <a href="https://scholar.google.com.au/citations?user=3WvHX3QAAAAJ&hl=en"> <img src="https://img.shields.io/badge/RPubs-blue?logo=R"> </a>
 show_downloads: false
 theme: jekyll-theme-minimal
 github:
