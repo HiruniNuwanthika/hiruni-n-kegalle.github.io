@@ -14,7 +14,7 @@ github:
 navigation:
   - title: "Home"
     url: "/"
-  - title: "publications"
+  - title: "Publications"
     url: "/publications/"
-  - title: "workexpereince"
+  - title: "Work Expereince"
     url: "/workexpereince/"
