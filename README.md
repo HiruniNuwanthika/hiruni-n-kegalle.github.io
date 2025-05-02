@@ -36,3 +36,4 @@ University of Colombo School of Computing, Sri lanka
 - Generated insights through SQL Server Reporting Services (SSRS).
 - Utilised Oracle, SQL, and SSRS to extract, transform, and visualize data. 
 
+Check out my [Publications](/publications/).
