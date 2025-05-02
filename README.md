@@ -2,6 +2,7 @@
 ### I am a PhD candidate at the [School of Computing Technologies](https://www.rmit.edu.au/about/schools-colleges/computing-technologies), RMIT University. 
 ### My researcher interests are Human-Computer Interaction, User Behaviour and Multi-Modal Data Analysis.
 <br><br>
+## Recent News
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="padding: 8px;"><strong>May, 2025</strong></td>
