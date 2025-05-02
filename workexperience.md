@@ -1,3 +1,9 @@
+---
+layout: page
+title: workexpereince
+permalink: /workexpereince/
+---
+
 ## Work experience
 ### Research Assistant - RMIT University  ( Mar 2025 - Current )
 - Conduct mixed-methods user research, including statistical analysis of survey responses and thematic analysis of qualitative data.
