@@ -11,9 +11,11 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: false
 navigation:
-  - title: "Hiruni"
+  - title: "Home"
     url: "/"
   - title: "Publications"
     url: "/publications/"
   - title: "Work Experience"
     url: "/workexperience/"
+  - title: "Awards"
+    url: "/awards/"
