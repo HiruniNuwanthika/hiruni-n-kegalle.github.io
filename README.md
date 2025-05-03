@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hiruni Kegalle
 ---
 
 ### I am a PhD candidate at the [School of Computing Technologies](https://www.rmit.edu.au/about/schools-colleges/computing-technologies), RMIT University. 
