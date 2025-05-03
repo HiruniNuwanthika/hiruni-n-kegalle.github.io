@@ -11,11 +11,11 @@
   </tr>
   <tr>
     <td style="padding: 8px;"><strong>Oct, 2024</strong></td>
-    <td style="padding: 8px;">Attended the MobileHCI 2024 and served as a student volunteer co-chair.</td>
+    <td style="padding: 8px;">Attended MobileHCI 2024 conference and served as a student volunteer co-chair.</td>
   </tr>
   <tr>
     <td style="padding: 8px;"><strong>Sep, 2024</strong></td>
-    <td style="padding: 8px;"> Published a [Conversation news article](https://theconversation.com/we-asked-melburnians-about-shared-e-scooters-their-responses-point-to-alternatives-to-the-city-councils-ban-237755) on e-scooter ban in Melbourne, written based on PhD research.</td>
+    <td style="padding: 8px;">Published a <a href="https://theconversation.com/we-asked-melburnians-about-shared-e-scooters-their-responses-point-to-alternatives-to-the-city-councils-ban-237755" target="_blank">Conversation news article </a> on e-scooter ban in Melbourne, written based on the PhD research.</td>
   </tr>
 </table>      
 
